@@ -9,3 +9,7 @@ Most of my work lives in private repositories. This profile is where side projec
 Desenvolvedor desde 2005, trabalho com mobile há mais de dez anos. Hoje lidero o time mobile da Brasil Paralelo, plataforma de streaming de vídeo, com apps Flutter para iOS e Android e integração a Smart TVs e Google Cast.
 
 A maior parte do meu trabalho fica em repositórios privados. Esse perfil é onde caem projetos paralelos, experimentos e coisas de game retro.
+
+---
+
+🌐 [andreyneto.com.br](https://andreyneto.com.br) · 🎮 [itch.io](https://andreyneto.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andreyneto)
