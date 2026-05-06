@@ -12,4 +12,4 @@ A maior parte do meu trabalho fica em repositórios privados. Esse perfil é ond
 
 ---
 
-🌐 [andreyneto.com.br](https://andreyneto.com.br) · 🎮 [itch.io](https://andreyneto.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andreyneto) · 📬 <hello@andreyneto.com.br>
+🔗 [andreyneto.com.br](https://andreyneto.com.br) · 🎮 [itch.io](https://andreyneto.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andreyneto) · 📬 <hello@andreyneto.com.br>
