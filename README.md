@@ -1,3 +1,7 @@
+# Hi, I'm Andrey 👋
+
+**Tech Lead · Mobile & Streaming** · Sorocaba, Brazil
+
 🇺🇸
 
 Developer since 2005, working with mobile for over ten years. Currently leading the mobile team at Brasil Paralelo, a video streaming platform, with Flutter apps for iOS and Android plus Smart TV and Google Cast integration.
