@@ -16,4 +16,6 @@ Meu trabalho do dia a dia fica em repositórios privados. Aqui é onde caem proj
 
 ---
 
-🔗 [andreyneto.com.br](https://andreyneto.com.br) · 🎮 [itch.io](https://andreyneto.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andreyneto) · 📬 <hello@andreyneto.com.br>
+🔗 [andreyneto.com.br](https://andreyneto.com.br) · 🎮 [itch.io](https://andreyneto.itch.io) · 💼 [LinkedIn](https://www.linkedin.com/in/andreyneto)
+
+📬 <hello@andreyneto.com.br>
