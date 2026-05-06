@@ -4,7 +4,7 @@
 
 > *Building for the screens people actually watch on.*
 
-![Dart](https://img.shields.io/badge/Dart-grey?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 Developer since 2005, working with mobile for over ten years. Currently leading the mobile team at Brasil Paralelo, a video streaming platform, with Flutter apps for iOS and Android plus Smart TV and Google Cast integration.
 
