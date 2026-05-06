@@ -1,9 +1,6 @@
-<pre>
-╭──────────────────────────────────╮
-│  andrey neto                     │
-│  tech lead · mobile & streaming  │
-╰──────────────────────────────────╯
-</pre>
+# Hi, I'm Andrey 👋
+
+**Tech Lead · Mobile & Streaming** · Sorocaba, Brazil
 
 > *Building for the screens people actually watch on.*
 
