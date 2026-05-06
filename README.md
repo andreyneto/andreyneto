@@ -1,6 +1,6 @@
 # Hi, I'm Andrey 👋
 
-**Tech Lead · Mobile & Streaming** · 🇧🇷 Sorocaba, Brazil
+**Tech Lead · Mobile & Streaming** · Sorocaba, Brazil 🇧🇷
 
 > *Building for the screens people actually watch on.*
 
