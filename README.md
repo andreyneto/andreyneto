@@ -7,8 +7,6 @@
 
 > *Building for the screens people actually watch on.*
 
-🇺🇸
-
 Developer since 2005, working with mobile for over ten years. Currently leading the mobile team at Brasil Paralelo, a video streaming platform, with Flutter apps for iOS and Android plus Smart TV and Google Cast integration.
 
 My day-to-day work lives in private repositories. This is where side projects, experiments, and retro games land.
