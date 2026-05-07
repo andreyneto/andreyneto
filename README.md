@@ -2,7 +2,7 @@
 
 **Tech Lead · Mobile & Streaming** · Sorocaba, Brazil 🇧🇷
 
-> *Building for the screens people actually watch on.*
+> *Still writing code, shipping mobile apps that don't embarrass me.*
 
 ![Flutter](https://img.shields.io/badge/Flutter-027DFD?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-358EF1?style=flat-square&logo=typescript&logoColor=white)
 
